@@ -374,5 +374,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".banner__buttons {background: rgba(0,0,0,0.6);}"
+    ]
   }
 }
