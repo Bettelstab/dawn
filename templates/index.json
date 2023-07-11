@@ -218,6 +218,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a04f89c6-374f-434e-8c7d-08f717560df8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-0",
+        "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-1",
+        "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/L67C0922.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -226,6 +271,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "a04f89c6-374f-434e-8c7d-08f717560df8"
   ]
 }
