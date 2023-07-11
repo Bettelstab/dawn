@@ -104,6 +104,18 @@
             "content": "<p>{{ product.metafields.custom.details | metafield_tag }}<\/p>",
             "page": ""
           }
+        },
+        "fbc53521-7ef7-41ff-a6d5-692f713f9552": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "heading_1": "",
+            "icon_2": "none",
+            "heading_2": "",
+            "icon_3": "truck",
+            "heading_3": "Lieferzeit 7-14 Tage"
+          }
         }
       },
       "block_order": [
@@ -120,7 +132,8 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "138b5e56-8106-40e0-885e-d8b9e75edc94"
+        "138b5e56-8106-40e0-885e-d8b9e75edc94",
+        "fbc53521-7ef7-41ff-a6d5-692f713f9552"
       ],
       "settings": {
         "enable_sticky_info": true,
