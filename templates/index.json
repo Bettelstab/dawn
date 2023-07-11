@@ -263,6 +263,62 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--19736578130237__fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5-1689077103c0c15931-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L67C1002.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19736578130237__fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5-1689077103c0c15931-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L67C9862.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19736578130237__fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5-1689077103c0c15931-0",
+        "template--19736578130237__fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5-1689077103c0c15931-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -272,6 +328,7 @@
     "collage",
     "video",
     "multicolumn",
-    "a04f89c6-374f-434e-8c7d-08f717560df8"
+    "a04f89c6-374f-434e-8c7d-08f717560df8",
+    "fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5"
   ]
 }
