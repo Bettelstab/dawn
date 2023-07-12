@@ -224,7 +224,7 @@
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "",
             "heading_size": "h1"
           }
         },
@@ -237,6 +237,7 @@
         },
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -318,6 +319,48 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "d1189e57-f698-47a2-bec7-3b9b7bb90f38": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L67C1002.jpg"
+          }
+        },
+        "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-1": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-0",
+        "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-1",
+        "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -328,6 +371,7 @@
     "video",
     "multicolumn",
     "a04f89c6-374f-434e-8c7d-08f717560df8",
-    "fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5"
+    "fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5",
+    "d1189e57-f698-47a2-bec7-3b9b7bb90f38"
   ]
 }
