@@ -232,7 +232,7 @@
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -249,6 +249,9 @@
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-0",
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-1",
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-2"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/L67C0922.jpg",
@@ -323,12 +326,11 @@
     },
     "d1189e57-f698-47a2-bec7-3b9b7bb90f38": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/L67C1002.jpg"
+            "image": "shopify:\/\/shop_images\/L67C0922.jpg"
           }
         },
         "template--19736578130237__d1189e57-f698-47a2-bec7-3b9b7bb90f38-16891491541ed5c1f1-1": {
