@@ -221,6 +221,7 @@
     },
     "a04f89c6-374f-434e-8c7d-08f717560df8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-0": {
           "type": "heading",
@@ -251,7 +252,7 @@
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-2"
       ],
       "custom_css": [
-
+        ".image-with-text__text-item.grid__item {display: none;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/L67C0922.jpg",
