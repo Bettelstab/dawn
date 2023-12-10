@@ -37,7 +37,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/L67C1165.jpg",
+        "image": "shopify:\/\/shop_images\/T_IMGL1346.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -111,7 +111,6 @@
     },
     "collage": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -138,6 +137,7 @@
         "product",
         "collection-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
@@ -167,7 +167,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -202,6 +201,7 @@
         "column2",
         "column3"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -221,7 +221,6 @@
     },
     "a04f89c6-374f-434e-8c7d-08f717560df8": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-0": {
           "type": "heading",
@@ -251,6 +250,7 @@
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-1",
         "template--19736578130237__a04f89c6-374f-434e-8c7d-08f717560df8-16890770156c919a11-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__text-item.grid__item {display: none;}"
       ],
@@ -271,7 +271,6 @@
     },
     "fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--19736578130237__fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5-1689077103c0c15931-0": {
           "type": "slide",
@@ -314,6 +313,7 @@
         "template--19736578130237__fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5-1689077103c0c15931-0",
         "template--19736578130237__fd8e6577-b2f0-48c1-b9ae-25ce965ef7a5-1689077103c0c15931-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
