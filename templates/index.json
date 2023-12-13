@@ -66,11 +66,19 @@
           "settings": {
             "text": "<p>Herzlich willkommen bei SOMEPEACH, dem Online-Store für stilvollen Lifestyle! Unser Ziel ist es, Frauen mit hochwertigen Produkten zu begeistern und Dir das Selbstvertrauen zu verleihen, um deinen individuellen Stil auszudrücken.<\/p>"
           }
+        },
+        "41d9d84c-4127-448a-8561-16e81668d11f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jetzt neu:",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "41d9d84c-4127-448a-8561-16e81668d11f"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -81,10 +89,80 @@
         "padding_bottom": 0
       }
     },
+    "51edf466-b3cd-456e-8823-4c30ca6302b4": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-text-1",
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-title-1",
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-price-1",
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-variant_picker-1",
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-quantity_selector-1",
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-buy_buttons-1",
+        "template--19736578130237__51edf466-b3cd-456e-8823-4c30ca6302b4-share-1"
+      ],
+      "settings": {
+        "product": "sweater-self-love-club",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Alle Artikel",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -370,6 +448,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "51edf466-b3cd-456e-8823-4c30ca6302b4",
     "featured_collection",
     "collage",
     "video",
